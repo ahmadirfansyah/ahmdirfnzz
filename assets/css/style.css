@@ -1,0 +1,20 @@
+@font-face {
+  src: url("../Poppins-Regular.otf");
+  font-family: "Poppins";
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: "Poppins", cursive;
+}
+
+h1 {
+  text-align: center;
+  margin: 40px 0;
+}
